@@ -4,7 +4,7 @@ This work proposes an enhanced you only look once (eYOLO)v5s model to address th
 
 #Sample Results
 ![image](https://github.com/user-attachments/assets/09717c6b-8263-4251-8661-83a7ce0ffbdb)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/bfde4039-0db1-4507-b47a-9d0547a81a80)
 
 
 
